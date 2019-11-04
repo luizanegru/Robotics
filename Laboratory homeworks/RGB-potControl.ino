@@ -31,9 +31,9 @@ void loop() {
   
 
   
-  analogWrite(ledPinRed, potRedValue);
-  analogWrite(ledPinGreen, potGreenValue);
-  analogWrite(ledPinBlue, potBlueValue);
+  analogWrite(ledPinRed, ledRedValue);
+  analogWrite(ledPinGreen, ledGreenValue);
+  analogWrite(ledPinBlue, ledBlueValue);
 
   Serial.print("Pot1: ");
   Serial.println(potRedValue);
