@@ -10,7 +10,6 @@ const int potPinRed = A0;
 const int potPinGreen = A1;
 const int potPinBlue = A2;
 
-
 const int ledPinRed = 11;
 const int ledPinGreen = 10;
 const int ledPinBlue = 9;
@@ -20,7 +19,6 @@ void setup() {
 }
 
 void loop() {
-
   potRedValue = analogRead(potPinRed);
   potGreenValue = analogRead(potPinGreen);
   potBlueValue = analogRead(potPinBlue);
@@ -28,22 +26,8 @@ void loop() {
   ledRedValue = map(potRedValue, 0, 1023, 0, 255);
   ledGreenValue = map(potGreenValue, 0, 1023, 0, 255);
   ledBlueValue = map(potBlueValue, 0, 1023, 0, 255);
-  
-
-  
+ 
   analogWrite(ledPinRed, ledRedValue);
   analogWrite(ledPinGreen, ledGreenValue);
   analogWrite(ledPinBlue, ledBlueValue);
-
-  Serial.print("Pot1: ");
-  Serial.println(potRedValue);
-  
-  Serial.print("Pot2: ");
-  Serial.println(potGreenValue);
-
-  Serial.print("Pot3: ");
-  Serial.println(potBlueValue);
-  
-  delay(1);
-
 }
