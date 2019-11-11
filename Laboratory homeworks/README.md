@@ -12,7 +12,7 @@ In this project read the values of the potentiometers and use each value to dire
 * Connector cable
 Knock detector
 
-
+Knock & Song
 ===
 This project detects knocks using a piezo passive buzzer. A led lights up. After 5 seconds a song starts to play and will stop playing when the button is pressed and the light goes off ready to be knocked and start over again.
 
