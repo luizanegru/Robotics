@@ -1,4 +1,4 @@
-1. RGB 
+ RGB 
 ===
 In this project read the values of the potentiometers and use each value to directly control one of the RGB colors.
 
@@ -12,7 +12,8 @@ In this project read the values of the potentiometers and use each value to dire
 * Connector cable
 Knock detector
 
-2. Knock & Song
+
+ Knock & Song
 ===
 This project detects knocks using a piezo passive buzzer. A led lights up. After 5 seconds a song starts to play and will stop playing when the button is pressed and the light goes off ready to be knocked and start over again.
 
@@ -30,7 +31,7 @@ This project detects knocks using a piezo passive buzzer. A led lights up. After
 
 * For song: https://www.princetronics.com/supermariothemesong/
 
-3. 4 Digit 7-Segment Display & Joistyck
+ 4 Digit 7-Segment Display & Joistyck
 ===
 This project controlling each digit of the segment with the joystick, individually.
 * X-axis: cycle through the digits and chose which one to modify. Light up the
