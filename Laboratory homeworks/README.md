@@ -29,3 +29,23 @@ This project detects knocks using a piezo passive buzzer. A led lights up. After
 ## Credits
 
 * For song: https://www.princetronics.com/supermariothemesong/
+
+4 Digit 7-Segment Display & Joistyck
+===
+This project controlling each digit of the segment with the joystick, individually.
+* X-axis: cycle through the digits and chose which one to modify. Light up the
+DP led of the current position.
+* Light from DP led is on of the current position.
+* When you press the button the selected digit is lock. 
+* Y-axis is used to modify the value of the digit, both up and down.
+* When you press the button again, it is unlock the selection and it's able to cycle through the 4 digits
+again
+
+## Build with:
+
+* 4 digit 7-segment display
+* 1 * joystick
+* Resistors
+* Wires
+* Arduino
+* Connector cable
