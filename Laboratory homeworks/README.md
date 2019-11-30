@@ -50,3 +50,11 @@ again
 * Wires
 * Arduino
 * Connector cable
+
+Menu LCD
+===
+
+*This project is a demo menu for games.
+
+## DEMO VIDEO can be found here: 
+https://youtu.be/89XY8OxFnLk
