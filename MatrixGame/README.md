@@ -1,9 +1,6 @@
 Hungry πxl
 ===
 
-# Video:
-* https://www.youtube.com/watch?v=-xkd1i6417I
-
 #### Pixel was lazy and he did not gather supplies for the winter, so on the last minute he decided to gather supplies to survive. Pixel have a limited time to collect as much supplies as he can and he will encounter obstacles as it advances in level.
 
 # Level 1
@@ -21,6 +18,8 @@ Hungry πxl
 ### At this point, things get even more worse because more bombs will be placed on the map and he must be very careful at every step he does.
 ![Level 5](https://raw.githubusercontent.com/luizanegru/Robotics/master/MatrixGame/Image/Images/Level5.jpg)
 
+# Video:
+* https://www.youtube.com/watch?v=-xkd1i6417I
 
 ## Hardware:
 * 8x8 LED matrix
