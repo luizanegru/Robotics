@@ -15,9 +15,5 @@ Hungry πxl
 ![Level 3](https://raw.githubusercontent.com/luizanegru/Robotics/master/MatrixGame/Image/Images/Level3.jpg)
 
 # Level 4
-### Here, Pixel will face some pretty hard threats because he must be vigilent and avoid the bomb that will be randomly placed on the map.
-![Level 4](https://raw.githubusercontent.com/luizanegru/Robotics/master/MatrixGame/Image/Images/Level4.jpg)
-
-# Level 5
-### At this point, things get even more worse because more bombs will be randomly placed on the map and he must be very careful at every step he does.
+### At this point, things get even more worse because more bombs will be placed on the map and he must be very careful at every step he does.
 ![Level 5](https://raw.githubusercontent.com/luizanegru/Robotics/master/MatrixGame/Image/Images/Level5.jpg)
