@@ -34,3 +34,5 @@ Hungry πxl
 * 5. At level 4 the bombs put you in difficulty, you have to be very careful to differentiate the bombs that blink very quickly from the pixels to be eaten that blink more slowly, also the walls are not missing.
 * 6. It may happen that at certain levels your pixel moves faster, which can help or make it harder. Surprise can occur at any time.
 ####    GOOD LUCK!
+
+![components](https://github.com/luizanegru/Robotics/blob/master/MatrixGame/Image/Images/IMG_9489.JPG)
