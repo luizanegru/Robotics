@@ -19,18 +19,18 @@ Hungry πxl
 ![Level 5](https://raw.githubusercontent.com/luizanegru/Robotics/master/MatrixGame/Image/Images/Level5.jpg)
 
 
-#### Hardware:
-# 8x8 LED matrix
-# LCD
-# Joystick
-# MAX7219 Driver
+## Hardware:
+* 8x8 LED matrix
+* LCD
+* Joystick
+* MAX7219 Driver
 
-#### How to play. Instructions:
-# You must to eat all the pixel in 30 seconds!
-# 1. With the joystick you can move up - down (axias OY) , left - right(axias OX).
-# 2. In level 1 you can go from one side to the other of the matrix (teleportation)
-# 3. In level 2 teleportation is no longer valid.
-# 4. At level 3 there are walls that you have to bypass to reach the pixels you have to eat, these pixels are blinking.
-# 5. At level 4 the bombs put you in difficulty, you have to be very careful to differentiate the bombs that blink very quickly from the pixels to be eaten that blink more slowly, also the walls are not missing.
-# 6. It may happen that at certain levels your pixel moves faster, which can help or make it harder. Surprise can occur at any time.
-####      GOOD LUCK!
+## How to play. Instructions:
+* You must to eat all the pixel in 30 seconds!
+* 1. With the joystick you can move up - down (axias OY) , left - right(axias OX).
+* 2. In level 1 you can go from one side to the other of the matrix (teleportation)
+* 3. In level 2 teleportation is no longer valid.
+* 4. At level 3 there are walls that you have to bypass to reach the pixels you have to eat, these pixels are blinking.
+* 5. At level 4 the bombs put you in difficulty, you have to be very careful to differentiate the bombs that blink very quickly from the pixels to be eaten that blink more slowly, also the walls are not missing.
+* 6. It may happen that at certain levels your pixel moves faster, which can help or make it harder. Surprise can occur at any time.
+####    GOOD LUCK!
